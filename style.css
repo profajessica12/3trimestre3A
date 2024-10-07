@@ -37,3 +37,11 @@ font-size: 12rem;
                     transform: scale(0.90);
                     transition: transform 0.1s;
                     }
+                    footer {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        background-color: var(--primary-color);
+                        color: var(--bg-color);
+                        }
+                        
